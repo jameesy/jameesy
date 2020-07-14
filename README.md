@@ -1,4 +1,4 @@
-[![Cover image of my name and job description](https://github.com/jameesy/jameesy/blob/master/jamesbedford-cover.png)](https://jame.es)
+[![Cover image of my name and job description](https://github.com/jameesy/jameesy/blob/master/james.png)](https://jame.es)
 
 Hey! I'm [James Bedford](https://jame.es), an Engineering Manager at the Digital Bank [Monzo](https://monzo.com). Before branching into technical leadership, I was a front-end developer, focusing on design systems and accessibility.
 
