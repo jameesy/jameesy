@@ -6,9 +6,9 @@ I don't actually spell my name with two ee's. Its an internet name as my handle 
 
 I also:
 
-- ⚫️ [Write](https://jame.es) about everything that interests me. Software, leadership, minimalism, mindfulness and productivity.
-- ⚫️ [Send](https://jamees.substack.com) a weekly newsletter about software and reflection.
-- ⚫️ [Read](https://jame.es/reading-list) a shit load of books and share my thoughts.
+- ⚫️  [Write](https://jame.es) about everything that interests me. Software, leadership, minimalism, mindfulness and productivity.
+- ⚫️  [Send](https://jamees.substack.com) a weekly newsletter about software and reflection.
+- ⚫️  [Read](https://jame.es/reading-list) a shit load of books and share my thoughts.
 
 Here is some writing I'm proud of:
 
