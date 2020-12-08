@@ -17,3 +17,6 @@ Here is some writing I'm proud of:
 * [The Apps I use to Stay Productive](https://www.jame.es/productivity-apps/) - 26.OCT.2020
 * [A Software Engineers Guide to Digital Minimalism](https://www.jame.es/digital-minimalism/) - 05.OCT.2020
 * [Squad Health Checks at Monzo](https://www.jame.es/squad-health-checks-at-monzo/) - 23.JUN.2020
+
+
+🖤
