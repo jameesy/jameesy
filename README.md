@@ -1,6 +1,6 @@
 ### ✌🏻 Hey, I'm Jamees Bedford
 
-I'm an Engineering Manager at [Attest](https://askattest.com), previously I was an Engineering Manager at the digital bank [Monzo](https://monzo.com). Before branching into technical leadership, I was a front-end developer, focusing on design systems.
+I'm an Engineering Manager at [Attest](https://askattest.com), previously I was an Engineering Manager at the digital bank [Monzo](https://monzo.com). Before branching into technical leadership, I was a front-end developer.
 
 I don't actually spell my name with two ee's. Its an internet name as my handle is usually 'jameesy'. It confuses people, which is in part amusing, but I share my name with someone that is famous for being cryopreserved so like to be different as those are big shoes to fill. 
 
