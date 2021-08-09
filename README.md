@@ -8,7 +8,7 @@ I also:
 
 - [Write](https://jame.es) about everything that interests me. Software, leadership, minimalism, mindfulness and productivity.
 - [Send](https://jamees.substack.com) a weekly newsletter about software and reflection.
-- [Read](https://literal.club/Jameesy) a shit load of books and share my thoughts.
+- [Read](https://literal.club/james) a shit load of books and share my thoughts.
 
 
 🖤
