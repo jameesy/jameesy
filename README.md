@@ -1,7 +1,7 @@
 ### ✌️ 
 
-[jame.es](www.jame.es)
+[jame.es](https://www.jame.es)
 
-[everydayobsidian.com](www.everydayobsidian.com)
+[everydayobsidian.com](https://www.everydayobsidian.com)
 
-[cultivate.is](www.cultivate.is)
+[cultivate.is](https://www.cultivate.is)
