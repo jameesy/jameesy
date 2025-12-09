@@ -4,4 +4,4 @@
 
 [everydayobsidian.com](https://www.everydayobsidian.com)
 
-[cultivate.is](https://www.cultivate.is)
+[quiet.engineer](https://www.quiet.engineer)
