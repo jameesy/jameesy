@@ -4,4 +4,4 @@
 
 [everydayobsidian.com](https://www.everydayobsidian.com)
 
-[quiet.engineer](https://www.quiet.engineer)
+[thethinkers.club](https://www.thethinkers.club)
